@@ -3,7 +3,7 @@
  * Plugin Name: Torlak Booking Appointment
  * GitHub Plugin URI: https://github.com/dvranic-code/wp-torlak-booking-appointment.git
  * Description: Custom plugin for booking appointments.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Dejan Rudic Vranic
  * Author URI: https://studioagnis.com/
  * License: GPL2
